@@ -5,13 +5,13 @@ Architecture: iphoneos-arm
 Description: Spero che funzioni.
 Filename: debs/bag.xml.tuberepair_1.1-Beta-2_iphoneos-arm.deb
 Size: 101918
-MD5sum: 0A0B6A1A538C9AA369EF905FC6D1EB68
+MD5sum: 0a0b6a1a538c9aa369ef905fc6d1eb68
 
-Package: com.pyramidsoftwares.test
-Name: TEST
+Package: bag.xml.tuberepair
+Name: Tube repair (aswitz)
 Version: 1.0
 Architecture: iphoneos-arm
 Description: prova, prova
-Filename: debs/tuo-file.deb
-Size: 12345
-MD5sum: (codice md5)
+Filename: debs/bag.xml.tuberepair_1.1-Beta-2_iphoneos-arm.deb
+Size: 101918
+MD5sum: 0a0b6a1a538c9aa369ef905fc6d1eb68
