@@ -1,11 +1,11 @@
-Package: com.tuonome.tweak1
-Name: Nome del Tweak
-Version: 1.0
+Package: com.pyramidsoftwares.eu.heinelt.ifile
+Name: iFile (by Heinelt)
+Version: P.S_Redistributed
 Architecture: iphoneos-arm
-Description: Il mio primo tweak
-Filename: debs/tuo-file.deb
-Size: 12345
-MD5sum: (codice md5)
+Description: iFile is a file manager originally made by heinelt. This copy is original and redistributed by PyramidsoftwaresIT S.p.a
+Filename: debs/eu.heinelt.ifile_2.2.0-1_iphoneos-arm.deb
+Size: 9.751.882
+MD5sum: 88766F339CC7B150E356331E4594DB7B
 
 Package: com.tuonome.tweak1
 Name: Nome del Tweak
